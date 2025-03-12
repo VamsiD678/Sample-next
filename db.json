@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": "183",
+      "title": "Green Oval Earring",
+      "price": 24.9,
+      "quantity": 5,
+      "total": 124.5,
+      "discountPercentage": 0,
+      "discountedTotal": 0,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Oval%20Earring/thumbnail.png"
+    },
+    {
+      "id": "100",
+      "title": "Apple Airpods",
+      "price": 129.99,
+      "quantity": 5,
+      "total": 649.95,
+      "discountPercentage": 12.84,
+      "discountedTotal": 566.5,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png"
+    },
+    {
+      "id": "144",
+      "title": "Cricket Helmet",
+      "price": 450,
+      "quantity": 4,
+      "total": 1800,
+      "discountPercentage": 0,
+      "discountedTotal": 0,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png"
+    },
+    {
+      "id": "148",
+      "title": "Golf Ball",
+      "price": 240,
+      "quantity": 4,
+      "total": 960,
+      "discountPercentage": 0,
+      "discountedTotal": 0,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png"
+    },
+    {
+      "id": "122",
+      "title": "iPhone 6",
+      "price": 29999,
+      "quantity": 3,
+      "total": 89997,
+      "discountPercentage": 0,
+      "discountedTotal": 0,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png"
+    },
+    {
+      "id": "110",
+      "title": "Selfie Lamp with iPhone",
+      "price": 14.99,
+      "quantity": 5,
+      "total": 74.95,
+      "discountPercentage": 19.87,
+      "discountedTotal": 60.06,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png"
+    },
+    {
+      "id": "98",
+      "title": "Rolex Submariner Watch",
+      "price": 13999,
+      "quantity": 1,
+      "total": 13999,
+      "discountPercentage": 0,
+      "discountedTotal": 0,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png"
+    },
+    {
+      "id": "125",
+      "title": "Oppo A57",
+      "price": 249.99,
+      "quantity": 5,
+      "total": 1249.95,
+      "discountPercentage": 16.54,
+      "discountedTotal": 1043.21,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png"
+    },
+    {
+      "id": "55",
+      "title": "Egg Slicer",
+      "price": 6.99,
+      "quantity": 2,
+      "total": 13.98,
+      "discountPercentage": 16.04,
+      "discountedTotal": 11.74,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png"
+    },
+    {
+      "id": "62",
+      "title": "Ice Cube Tray",
+      "price": 5.99,
+      "quantity": 2,
+      "total": 11.98,
+      "discountPercentage": 8.25,
+      "discountedTotal": 10.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png"
+    }
+  ]
+}
