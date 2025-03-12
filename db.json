@@ -99,16 +99,6 @@
       "discountPercentage": 8.25,
       "discountedTotal": 10.99,
       "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png"
-    },
-    {
-      "id": "63",
-      "title": "Ice Cube Tray",
-      "price": 9,
-      "quantity": 2,
-      "total": 20,
-      "discountPercentage": 8.25,
-      "discountedTotal": 10.99,
-      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png"
     }
   ]
 }
