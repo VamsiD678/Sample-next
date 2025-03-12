@@ -7,7 +7,7 @@ import { notFound } from "next/navigation";
 export const generateMetadata = async ({ params }: { params: Promise<{ id: string }> })=> {
   
   const { id } = await params;
-  const res = await fetch(`http://localhost:3000/products/${id}`, { cache:'force-cache' })
+  const res = await fetch(`http://localhost:3000/products/${id}`)
   const { title } = await res.json()
   console.log(title)
 
@@ -34,7 +34,7 @@ const Product = async ({ params }: { params: Promise<{ id: string }> }) => {
 
   async function getProduct() : Promise<productType['product']> {
     try {
-      const res = await fetch(`http://localhost:3000/products/${id}`,{ cache:'force-cache' })
+      const res = await fetch(`http://localhost:3000/products/${id}`)
       const product = await res.json()
       return product
     }
@@ -56,7 +56,7 @@ const Product = async ({ params }: { params: Promise<{ id: string }> }) => {
       </Link>
       <div className="max-w-3xl mx-auto">
         <div className="bg-white px-4 flex items-center gap-5 sm:flex-row flex-col py-9 sm:py-4 shadow-md rounded-md mb-6 lg:mb-8">
-          <div className="relative aspect-square max-w-lg sm:w-72 md:w-96 w-64 h-full">
+          <div className="relative aspect-square max-w-lg sm:w-72 md:w-96 w-64 h-full hover:scale-[1.07] duration-300">
             <Image
               src={product.thumbnail}
               className='object-cover rounded-t'

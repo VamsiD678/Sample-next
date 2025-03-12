@@ -3,9 +3,9 @@
     {
       "id": "183",
       "title": "Green Oval Earring",
-      "price": 24.9,
+      "price": 25,
       "quantity": 5,
-      "total": 124.5,
+      "total": 125,
       "discountPercentage": 0,
       "discountedTotal": 0,
       "thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Oval%20Earring/thumbnail.png"
@@ -13,11 +13,11 @@
     {
       "id": "100",
       "title": "Apple Airpods",
-      "price": 129.99,
+      "price": 50,
       "quantity": 5,
-      "total": 649.95,
-      "discountPercentage": 12.84,
-      "discountedTotal": 566.5,
+      "total": 250,
+      "discountPercentage": 0,
+      "discountedTotal": 0,
       "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png"
     },
     {
